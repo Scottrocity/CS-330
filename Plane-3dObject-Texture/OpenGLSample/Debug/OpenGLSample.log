@@ -1,0 +1,11 @@
+﻿  Source.cpp
+F:\School\CS 330\Week 5\Plane-3dObject-Texture\OpenGLSample\Source.cpp(169,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\School\CS 330\Week 5\Plane-3dObject-Texture\OpenGLSample\Source.cpp(285,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\School\CS 330\Week 5\Plane-3dObject-Texture\OpenGLSample\Source.cpp(286,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\School\CS 330\Week 5\Plane-3dObject-Texture\OpenGLSample\Source.cpp(290,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\School\CS 330\Week 5\Plane-3dObject-Texture\OpenGLSample\Source.cpp(291,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\School\CS 330\Week 5\Plane-3dObject-Texture\OpenGLSample\Source.cpp(293,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\School\CS 330\Week 5\Plane-3dObject-Texture\OpenGLSample\Source.cpp(294,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\School\CS 330\Week 5\Plane-3dObject-Texture\OpenGLSample\Source.cpp(303,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLSample.vcxproj -> F:\School\CS 330\Week 5\Plane-3dObject-Texture\Debug\OpenGLSample.exe
